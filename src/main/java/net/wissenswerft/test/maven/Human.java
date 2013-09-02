@@ -13,7 +13,6 @@ import lombok.extern.log4j.Log4j;
  * To change this template use File | Settings | File Templates.
  */
 @Log4j
-@AllArgsConstructor
 @Getter
 @Setter
 public class Human {
